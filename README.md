@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This practical is intended as a brief introduction to the F# programming language and the SMT solver Z3. In the course of this practical you will be performing two types of biological simulation; you will be writing a small Gillespie simulator for the single progenitor model of epithelial stem cells, and editing and exploring logical models of small biological networks. This practical builds on the discussions of F# and Z3 in lecture 4, and the demonstrations in the associated supervision. The goal of this practical is to allow you to see how you model different systems using a functional programming language (F#) and formal logic (using Z3). The final questions in each section are more open ended so aim to spend about 1.5 hours on each component.
+This practical is intended as a brief introduction to the F# programming language and the SMT solver Z3. In the course of this practical you will be performing two types of biological simulation; you will be writing a small Gillespie simulator for the single progenitor model of epithelial stem cells, and editing and exploring logical models of small biological networks. This practical builds on the discussions of F# and Z3 in lecture 4, and the demonstrations in the associated supervision. The goal of this practical is to allow you to see how you model different systems using a functional programming language (F#) and formal logic (using Z3). The final questions in each section are more open ended so aim to spend about 1.5 hours on each component. 
+
+Parts of this tutorial are available as an Azure Notebook:
+
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/hallben/ModellingBiologyWithZ3)
 
 ## Getting started
 
